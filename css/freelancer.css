@@ -470,8 +470,11 @@ footer .footer-below {
 
 header{
     background: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRUNUWcbbLkmSnqEsFkYFangJ6zwIhvogN6L7a46aJU7RRfmg4);
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     color: #ff84fc;
-    background-size: 100%;
     font-family: 'Lobster', cursive;
 }
 
